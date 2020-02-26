@@ -60,6 +60,6 @@ def naming_system
   },
 }
 
-hoh
+return hoh
 
 end
